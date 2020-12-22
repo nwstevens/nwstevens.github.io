@@ -3385,8 +3385,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		padding: 6em 0 0 0;
-		/* original: padding: 6em 0 2em 0 ; */
+		padding: 6em 0 2em 0;
 		background-attachment: fixed;
 		background-position: center;
 		background-repeat: no-repeat;
@@ -3394,10 +3393,10 @@ input, select, textarea {
 		border-bottom: 0 !important;
 		cursor: default;
 		/* #old, testing full height/# height: 60vh; */
-		height: 100%;
-		margin: margin-bottom: -3.25em;
+		height: 100vh;
+		margin-bottom: -3.25em;
 		/* #old,testing full height/# max-height: 32em; */
-		max-height: 100%;
+		max-height: 100vh;
 		min-height: 22em;
 		position: relative;
 		top: -3.25em;
