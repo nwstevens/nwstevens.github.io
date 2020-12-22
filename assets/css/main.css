@@ -3389,7 +3389,7 @@ input, select, textarea {
 		background-attachment: fixed;
 		background-position: center;
 		background-repeat: no-repeat;
-		/* #old, testing no background size #/ background-size: cover; */
+		background-size: cover;
 		border-bottom: 0 !important;
 		cursor: default;
 		/* #old, testing full height/# height: 60vh; */
