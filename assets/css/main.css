@@ -3489,7 +3489,7 @@ input, select, textarea {
 			min-height: 30em;
 			/* orgiginal: max-height: 50em;*/
 			/* this is my edit:*/ max-height: none;
-			max-height: 100%
+			/*original: max-height: 100% */
 		}
 
 			#banner.major.alt {
