@@ -3762,7 +3762,7 @@ input, select, textarea {
 
 		#wrapper > * > .inner {
 			padding: 4em 0 2em 0 ;
-			/* original: margin: 0 auto;*/
+			margin: 0 auto;
 			max-width: 65em;
 			width: calc(100% - 6em);
 		}
