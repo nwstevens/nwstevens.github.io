@@ -3398,7 +3398,7 @@ input, select, textarea {
 		/* #old,testing full height/# max-height: 32em; */
 		max-height: 100vh;
 		min-height: 22em;
-		position: absolute;
+		position: relative;
 		top: -3.25em;
 	}
 
