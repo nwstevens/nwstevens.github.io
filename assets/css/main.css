@@ -3483,12 +3483,12 @@ input, select, textarea {
 				}
 
 		#banner.major {
-			height: 100vh;
+			height: 75vh;
 			/* this is my edit: height: 100vh;*/
 			height: 100%;
 			min-height: 30em;
-			max-height: 50em;
-			/* this is my edit: max-height: 100vh;*/
+			/* orgiginal: max-height: 50em;*/
+			/* this is my edit:*/ max-height: none;
 			max-height: 100%
 		}
 
