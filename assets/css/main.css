@@ -3385,7 +3385,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		padding: 6em 0 2em 0;
+		padding: 6em 0 50em 0; /* changed from 2 to 50*/
 		background-attachment: fixed;
 		background-position: center;
 		background-repeat: no-repeat;
@@ -3398,7 +3398,7 @@ input, select, textarea {
 		/* #old,testing full height/# max-height: 32em; */
 		max-height: 100vh;
 		min-height: 22em;
-		position: relative;
+		position: absolute;
 		top: -3.25em;
 	}
 
@@ -3483,10 +3483,12 @@ input, select, textarea {
 				}
 
 		#banner.major {
-			height: 75vh;
+			/* height: 75vh; */
+			height: 100vh;
 			height: 100%;
 			min-height: 30em;
-			max-height: 50em;
+			/* max-height: 50em; */
+			max-height: 100vh;
 			max-height: 100%
 		}
 
