@@ -3402,7 +3402,7 @@ input, select, textarea {
 		top: -3.25em;
 	}
 
-		#banner:after {
+		/* temporarily removing this #banner:after {
 			-moz-transition: opacity 2.5s ease;
 			-webkit-transition: opacity 2.5s ease;
 			-ms-transition: opacity 2.5s ease;
@@ -3422,7 +3422,7 @@ input, select, textarea {
 			top: 0;
 			width: 100%;
 			z-index: 1;
-		}
+		} */
 
 		#banner h1 {
 			font-size: 3.25em;
