@@ -3483,7 +3483,7 @@ input, select, textarea {
 				}
 
 		#banner.major {
-			height: 100vh;
+			height: 75vh;
 			/* this is my edit: height: 100vh;*/
 			height: 100%;
 			min-height: 30em;
