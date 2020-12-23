@@ -3392,11 +3392,9 @@ input, select, textarea {
 		background-size: cover;
 		border-bottom: 0 !important;
 		cursor: default;
-		/* #old, testing full height/# height: 60vh; */
-		height: 100vh;
+		height/# height: 60vh;
 		margin-bottom: -3.25em;
-		/* #old,testing full height/# max-height: 32em; */
-		max-height: 100vh;
+		max-height: 32em;
 		min-height: 22em;
 		position: relative;
 		top: -3.25em;
