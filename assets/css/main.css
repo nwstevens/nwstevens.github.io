@@ -2898,6 +2898,29 @@ input, select, textarea {
 					height: 20em;
 					width: 100% !important;
 				}
+				.tiles article:nth-child(6n - 5):before {
+					background-color: #a9abb6;
+				}
+	
+				.tiles article:nth-child(6n - 4):before {
+					background-color: #302e3c;
+				}
+	
+				.tiles article:nth-child(6n - 3):before {
+					background-color: #a9abb6;
+				}
+	
+				.tiles article:nth-child(6n - 2):before {
+					background-color: #302e3c;
+				}
+	
+				.tiles article:nth-child(6n - 1):before {
+					background-color: #a9abb6;
+				}
+	
+				.tiles article:nth-child(6n):before {
+					background-color: #302e3c;
+				}
 
 		}
 
